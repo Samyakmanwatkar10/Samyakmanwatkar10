@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e470g25ccvdxvdulscqxt65zxpm4b5pwm64op2xprvx&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="100" alt="Loading GIF" />
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1739908075~exp=1739911675~hmac=cf0afc1057433c6ca14a87085e2d71eee4db21d7c98ee99602ef9fd08b19bda7&w=740" width="100" alt="image" />
 </div>
