@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/it-job-concept-illustration_114360-27000.jpg?t=st=1739908392~exp=1739911992~hmac=7dca923bba9d8366ac80a02ccd8b22d2799aadb8c7fbae9d066c351a2b54e7a8&w=740" width="200" alt="image"/>
+  <img src="https://img.freepik.com/free-vector/it-job-concept-illustration_114360-27000.jpg?t=st=1739908392~exp=1739911992~hmac=7dca923bba9d8366ac80a02ccd8b22d2799aadb8c7fbae9d066c351a2b54e7a8&w=740" width="100" alt="image"/>
 </div>
 <h1 align="center">Hi 👋, I'm Samyak Manwatkar</h1>
 <h3 align="center">I am an enthusiastic engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I love building AI-powered solutions, exploring deep learning, and integrating smart technologies with IoT. Always eager to learn, innovate, and solve real-world challenges! 🚀</h3>
