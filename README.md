@@ -1,4 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtaWd0a3VnZGJmNDhleHltN2xoaGR1NXljcjFzMWhxdW9qNGxpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="480" heoght="480"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e470g25ccvdxvdulscqxt65zxpm4b5pwm64op2xprvx&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="480" heoght="480"/>
 </div>
 
